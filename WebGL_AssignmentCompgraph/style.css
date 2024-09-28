@@ -1,0 +1,16 @@
+canvas{
+    display: block;
+    margin: 10px auto;
+}
+.button_container{
+    text-align: center;
+    margin-top: 10px;
+}
+button{
+    padding: 10px;
+    margin: 10px;
+}
+#button1 {background-color: #04AA6D;}
+#button2 {background-color: #008CBA;}
+#button3 {background-color: #f44336;}
+#button4 {background-color: grey;}
